@@ -1,0 +1,9 @@
+Complition_Time  Turn_Around_Time  Waiting_Time
+Process                                                 
+p1                     2                 2             0
+p2                     4                 3             1
+p2                     8                 3             0
+p4                    12                 6             2
+
+
+
